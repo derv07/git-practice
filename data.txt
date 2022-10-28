@@ -1,0 +1,3 @@
+Name: "Daniel"
+Age: 26
+Favorite Color: Red
