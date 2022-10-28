@@ -1,3 +1,4 @@
 Name: "Daniel"
 Age: 26
 Favorite Color: Red
+Height: 1.80m
